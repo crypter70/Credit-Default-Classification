@@ -12,9 +12,6 @@ This project aims to uncover deep credit insights from data and build the best d
 
 ## Result
 
-### Business Insights
-
-
 ### Model Selection
 <img width="410" alt="model selection" src="https://github.com/crypter70/Credit-Default-Classification/assets/74947224/a2dfdff5-799f-4d0c-9804-e1d4f4763f06">
 
