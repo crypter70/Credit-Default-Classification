@@ -23,4 +23,3 @@ This project aims to uncover deep credit insights from data and build the best d
 
 ### Feature Importance
 ![feature importance](https://github.com/crypter70/Credit-Default-Classification/assets/74947224/1cdeff51-5477-4963-8583-70c31f56bd5d)
-4947224/a2dfdff5-799f-4d0c-9804-e1d4f4763f06">
