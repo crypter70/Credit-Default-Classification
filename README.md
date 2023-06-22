@@ -11,3 +11,13 @@ This project aims to uncover deep credit insights from data and build the best d
 - Python 3
 
 ## Result
+
+### Business Insights
+
+
+### Model Selection
+
+### Confusion Matrix of Random Forest Model
+![confusion matrix](https://github.com/crypter70/Credit-Default-Classification/assets/74947224/ad2b88df-f6be-4db3-828e-8f68f16fc9b5)
+
+### Feature Importance
